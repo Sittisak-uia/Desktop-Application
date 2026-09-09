@@ -92,7 +92,7 @@ week3-ai-agent/
      ```bash
      python -m task_manager.main
      ```
-     *(บัญชีผู้ใช้เริ่มต้น: Username: `admin` / Password: `admin123`)*
+     *(บัญชีผู้ใช้เริ่มต้น: Username: `admin` / Password: `admin`)*
 
    - **เปิด Media Player PRO**:
      ```bash
