@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# PyInstaller Build Artifacts
+build/
+dist/
+
+# SQLite Temporary Files & Runtime Backups
+*.db-journal
+*.db-wal
+*.db-shm
+*.bak
+*.bak_*
+tasks_backup_*.db
+tasks_safety_backup_*.db
+
+# OS / IDE Artifacts
+.DS_Store
+Thumbs.db
+*.log
