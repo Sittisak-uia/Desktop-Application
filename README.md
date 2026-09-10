@@ -96,12 +96,12 @@ week3-ai-agent/
 
    - **เปิด Media Player PRO**:
      ```bash
-     python media_player/main.py
+     python -m media_player.main
      ```
 
    - **เปิด Tarot App**:
      ```bash
-     python media_player/tarot_main.py
+     python -m media_player.tarot_main
      ```
 
 ---
